@@ -18,7 +18,10 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
-* Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
+* Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live. 
+The formatting is acheieved as follows for descrete values *successful, failed, or canceled, or is currently live*
+
+![Kickstarter Table](Images/conditional_formating_discrete.PNG)
 
   * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
