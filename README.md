@@ -21,7 +21,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 * Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live. 
 The formatting is acheieved as follows for descrete values *successful, failed, or canceled, or is currently live*
 
-![Kickstarter Table](Images/conditional_formating_discrete.PNG)
+![conditional discrete formatting](Images/conditional_formating_discrete.png)
 
   * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
